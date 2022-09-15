@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ved Prakash <br <h3 align="center">(A Passionate Data Scientist ) </h3></h1>
+<h1 align="center">Hi , I'm Ved Prakash <br <h3 align="center">(A Data Scientist) </h3></h1>
 
 	
 [![Linkedin](https://img.shields.io/badge/-Ved%20Prakash-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/v-prakash/)](https://www.linkedin.com/in/v-prakash/)
@@ -8,9 +8,10 @@
 
 
 ## About me 
-Ved Prakash is the one who love to play with numbers being always #Mathematics as favourite subject , that's the reason he is passionate about Data Science & want to solve real world complex ML problem.
-
-I've always been passionate about Math ,Computer Science and especially about Mathematical Modeling and how it can be applied in real life problems. I find, that data science and advanced data analysis especially in the IT/Healthcare applications are the areas, where my passions can be best fulfilled.
+Hi,
+I am Ved Prakash. I completed my Bachelor of Technology in Computer Science from MNNIT Allahabad.
+Currently I am working with Tata Power DDL as a Data Scientist holding and experience of more than 3 years. I've worked on several projects based on NLP, Time Series Forecasting and HR Data. I've done various projects on Kaggle as well. In classification I've worked on customer churn, Employee Attrition, Sentiment Analysis use cases.
+Some Time Series projects completed are Stock Prediction, Website Traffic forecasting, and Load Forecasting. To complete all the projects given above I've used Machine Learning algorithms like SVM,Random Forest Classification,Linear Regression and Deep learning algorithms like BERT,LSTM,CNN,MLP frameworks like tensorflow
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedprakash11" alt="blurred-machine" /> </p>
@@ -38,7 +39,7 @@ I've always been passionate about Math ,Computer Science and especially about Ma
 ⚡ fact : There is no full automated data science. You need to get your hands dirty . Whatever we are doing today is a Augmented Artificial Intelligence not a fully Automated AI.
 
 ### - 🎯 Goal (2020 )
-- **Contribute** openly to **Data Science and Machine Learning community**
+- **Work For ** an **Organization where I can use my skills to contribute for the growth of orgainzation while enhancing my own skills**
 
 
 
