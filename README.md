@@ -16,7 +16,7 @@ I've always been passionate about Math ,Computer Science and especially about Ma
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedprakash11" alt="blurred-machine" /> </p>
 
 
-<img align="top" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
+<img align="top" alt="GIF" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="400px" />
 
 
 ## Stack I work with
