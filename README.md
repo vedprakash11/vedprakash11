@@ -10,7 +10,7 @@
 ## About me 
 Hi,
 I am Ved Prakash. I completed my Bachelor of Technology in Computer Science from MNNIT Allahabad.
-Currently I am working with Tata Power DDL as a Data Scientist holding and experience of more than 3 years. I've worked on several projects based on NLP, Time Series Forecasting and HR Data. I've done various projects on Kaggle as well. In classification I've worked on customer churn, Employee Attrition, Sentiment Analysis use cases.
+Currently I am working with Care Health Insurance as a Data Scientist holding and experience of more than 3 years. I've worked on several projects based on NLP, Time Series Forecasting and HR Data. I've done various projects on Kaggle as well. In classification I've worked on customer churn, Employee Attrition, Sentiment Analysis use cases.
 Some Time Series projects completed are Stock Prediction, Website Traffic forecasting, and Load Forecasting. To complete all the projects given above I've used Machine Learning algorithms like SVM,Random Forest Classification,Linear Regression and Deep learning algorithms like BERT,LSTM,CNN,MLP frameworks like tensorflow
 
 
