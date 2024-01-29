@@ -38,7 +38,7 @@ Some Time Series projects completed are Stock Prediction, Website Traffic foreca
 
 ⚡ fact : There is no full automated data science. You need to get your hands dirty . Whatever we are doing today is a Augmented Artificial Intelligence not a fully Automated AI.
 
-### - 🎯 Goal (2020 )
+### - 🎯 Goal (2024 )
 - **Work For ** an **Organization where I can use my skills to contribute for the growth of orgainzation while enhancing my own skills**
 
 
